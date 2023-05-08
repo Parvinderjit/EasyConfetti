@@ -6,7 +6,7 @@ let package = Package(
     name: "EasyConfetti",
     platforms: [
         .macOS(.v11),
-        .iOS(.v13),
+        .iOS(.v11),
         .tvOS(.v13)
     ],
     products: [
